@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Meet%20Virugama&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+that+Actually+Work;GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;FastAPI+%7C+React+%7C+PyTorch+%7C+LangChain;DA-IICT+%E2%80%A2+Gujarat%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+that+Actually+Work;GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;FastAPI+%7C+React+%7C+PyTorch+%7C+LangChain;DA-IICT+%E2%80%A2+Gujarat%2C+India" alt="Typing SVG" />
 </a>
 
 <p align="center">
