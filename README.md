@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Meet%20Virugama&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-ML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+that+Actually+Work;GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;FastAPI+%7C+React+%7C+PyTorch+%7C+LangChain;DA-IICT+%E2%80%A2+Gujarat%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI+that+thinks.+Leading+teams+that+win.;GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;FastAPI+%7C+React+%7C+PyTorch+%7C+LangChain;DA-IICT+%E2%80%A2+Gujarat%2C+India" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -30,15 +30,15 @@
 <tr>
 <td width="60%">
 
-I'm a **B.Tech student at DA-IICT** specializing in **AI & Machine Learning**. I build end-to-end ML systems — from training models to deploying them in production.
+I am a **B.Tech student at DA-IICT** specializing in **Artificial Intelligence & Machine Learning**. I architect and build end-to-end ML systems — from data engineering and model training to scalable production deployment.
 
-Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** using LangChain, LlamaIndex, and OpenAI APIs.
+Currently focused on **Generative AI**, **RAG architectures**, and **Autonomous Agents** leveraging LangChain, LlamaIndex, and OpenAI APIs.
 
-- **Current Focus:** EduScribe AI · Dau-pwa · GenAI
+- **Current Focus:** EduScribe AI · Dau-pwa · GenAI Architecture
 - **Learning:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
 - **Ask me about:** AI, ML, GenAI, NLP, RAG, React, Node.js
 - **Contact:** [meet56963@gmail.com](mailto:meet56963@gmail.com)
-- **Fun fact:** I am an eSports Athlete (IGL) in Free Fire — *Building AI that thinks. Leading teams that win.*
+- **Philosophy:** *Building AI that thinks. Leading teams that win.*
 
 </td>
 <td width="40%" align="center">
@@ -74,67 +74,85 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 
 ### Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-**[CareerPath Pro](https://github.com/Meetvirugama/CareerPath-Pro)** 
-
-A **full-stack ML web app** that predicts student placement probability and expected salary using XGBoost. FastAPI backend + React frontend, deployed on Vercel & Render.
-
-`Python` `FastAPI` `XGBoost` `React` `Jupyter`
-
-</td>
-<td width="50%">
-
-**[GenAI Learning Track](https://github.com/Meetvirugama/GenAI)**
-
-A **structured 3-week GenAI curriculum** with hands-on mini-projects: `week1-promptforge` (prompt engineering), `week2-docbuddy` (RAG + document Q&A), `week3-agentx` (autonomous AI agents).
-
-`Python` `LangChain` `RAG` `AI Agents` `OpenAI`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[ML Modal Explainer](https://github.com/Meetvirugama/ML-MODAL-EXPLAINER)**
-
-A **3D interactive ML algorithm visualizer** built with Three.js, GSAP, and Antigravity. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL.
-
-`JavaScript` `Three.js` `GSAP` `Vite` `Antigravity`
-
-</td>
-<td width="50%">
-
-**[AI Club Website](https://github.com/Meetvirugama/Club_website)**
-
-Official **MERN stack website for the college AI Club**. Built with Next.js + TypeScript and Antigravity, with a full backend for event management and member coordination.
-
-`TypeScript` `Next.js` `MERN` `Antigravity`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Offline Store (Antigravity)](https://github.com/Meetvirugama/OfflineStoreWebsite)** 
-
-An e-commerce website platform built with JavaScript and Antigravity for managing offline retail store inventory and sales.
-
-`JavaScript` `Web Development` `Antigravity`
-
-</td>
-<td width="50%">
-
-**[Basic Voting System](https://github.com/Meetvirugama/BasicVotingSystem)** 
-
-A secure and transparent voting application built with JavaScript and Antigravity for conducting digital polls and elections.
-
-`JavaScript` `Frontend` `Antigravity`
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <b>CareerPath Pro</b><br/><br/>
+        <a href="https://github.com/Meetvirugama/CareerPath-Pro">
+          <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="justify">A full-stack machine learning application that predicts student placement probability and expected salary utilizing <b>XGBoost</b>. Engineered with a <b>FastAPI</b> backend and a <b>React</b> frontend.</p>
+      <br/>
+      <p align="center"><code>Python</code> <code>FastAPI</code> <code>XGBoost</code> <code>React</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <b>GenAI Learning Track</b><br/><br/>
+        <a href="https://github.com/Meetvirugama/GenAI">
+          <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="justify">A structured Generative AI curriculum featuring hands-on technical implementations: <i>promptforge</i> (Prompt Engineering), <i>docbuddy</i> (RAG Architecture), and <i>agentx</i> (Autonomous AI Agents).</p>
+      <br/>
+      <p align="center"><code>Python</code> <code>LangChain</code> <code>RAG</code> <code>AI Agents</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <b>ML Modal Explainer</b><br/><br/>
+        <a href="https://github.com/Meetvirugama/ML-MODAL-EXPLAINER">
+          <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="justify">An interactive 3D machine learning algorithm visualizer built with <b>Three.js</b> and <b>GSAP</b>. Renders real-time WebGL animations for Decision Trees, Random Forests, and Logistic Regression.</p>
+      <br/>
+      <p align="center"><code>Three.js</code> <code>GSAP</code> <code>WebGL</code> <code>Antigravity</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <b>AI Club Website</b><br/><br/>
+        <a href="https://github.com/Meetvirugama/Club_website">
+          <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="justify">The official web platform for the college AI Club. Engineered with <b>Next.js</b> and <b>TypeScript</b>, featuring a comprehensive backend system for event management and member coordination.</p>
+      <br/>
+      <p align="center"><code>TypeScript</code> <code>Next.js</code> <code>Node.js</code> <code>Antigravity</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <b>Offline Store (Antigravity)</b><br/><br/>
+        <a href="https://github.com/Meetvirugama/OfflineStoreWebsite">
+          <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="justify">A scalable e-commerce platform built with <b>JavaScript</b>, designed for streamlining offline retail store inventory management and digital sales operations.</p>
+      <br/>
+      <p align="center"><code>JavaScript</code> <code>E-Commerce</code> <code>Antigravity</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <b>Basic Voting System</b><br/><br/>
+        <a href="https://github.com/Meetvirugama/BasicVotingSystem">
+          <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </div>
+      <br/>
+      <p align="justify">A secure and transparent digital polling application built with <b>JavaScript</b>, engineered to conduct verifiable elections and manage voting data securely.</p>
+      <br/>
+      <p align="center"><code>JavaScript</code> <code>Security</code> <code>Antigravity</code></p>
+    </td>
+  </tr>
 </table>
 
 > **Note:** Also check: [NOTES](https://github.com/Meetvirugama/NOTES) — Chapter-by-chapter ML notes from *Hands-On Machine Learning* (Ch 1–19, covering CNNs, RNNs, GANs, RL, and more)
