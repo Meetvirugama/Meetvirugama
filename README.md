@@ -34,10 +34,12 @@ I'm a **B.Tech student at DA-IICT** specializing in **AI Engineering and Full-St
 
 Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** using LangChain, LlamaIndex, and OpenAI APIs.
 
-- 🔭 **Building:** Faculty Intelligence AI Platform · EduScribe AI
-- 📖 **Studying:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
-- 🤖 **Exploring:** Multi-agent systems, MLOps, Advanced RAG
-- 📍 Gujarat, India
+- 🔭 **I’m currently working on:** Faculty Intelligence AI Platform · EduScribe AI
+- 🌱 **I’m currently learning:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
+- 👯 **I’m looking to collaborate on:** Open-source AI Agents and Full-Stack ML projects
+- 💬 **Ask me about:** Generative AI, RAG pipelines, FastAPI, React
+- 📫 **How to reach me:** [meet56963@gmail.com](mailto:meet56963@gmail.com)
+- ⚡ **Fun fact:** I can debug a neural network faster than I can decide what to eat for lunch!
 
 </td>
 <td width="40%" align="center">
@@ -149,7 +151,10 @@ Official **MERN stack website for the college AI Club**. Built with Next.js + Ty
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetvirugama&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
-
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Meetvirugama/Meetvirugama/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
 
 ---
 
