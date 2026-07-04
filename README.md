@@ -43,7 +43,7 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 
 </td>
 <td width="40%" align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="220" />
+<img src="assets/coding.gif" width="220" />
 </td>
 </tr>
 </table>
