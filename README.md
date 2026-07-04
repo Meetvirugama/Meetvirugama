@@ -130,7 +130,7 @@ Currently focused on **Generative AI**, **RAG architectures**, and **Autonomous 
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <b>Offline Store (Antigravity)</b><br/><br/>
+        <b>Offline Store </b><br/><br/>
         <a href="https://github.com/Meetvirugama/OfflineStoreWebsite">
           <img src="https://img.shields.io/badge/View%20Source-181717?style=flat-square&logo=github&logoColor=white" />
         </a>
