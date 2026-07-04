@@ -100,9 +100,9 @@ A **structured 3-week GenAI curriculum** with hands-on mini-projects: `week1-pro
 
 **[ML Modal Explainer](https://github.com/Meetvirugama/ML-MODAL-EXPLAINER)**
 
-A **3D interactive ML algorithm visualizer** built with Three.js + GSAP. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL.
+A **3D interactive ML algorithm visualizer** built with Three.js, GSAP, and Antigravity. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL.
 
-`JavaScript` `Three.js` `GSAP` `Vite` `WebGL`
+`JavaScript` `Three.js` `GSAP` `Vite` `Antigravity`
 
 </td>
 <td width="50%">
