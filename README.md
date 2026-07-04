@@ -137,25 +137,19 @@ Official **MERN stack website for the college AI Club**. Built with Next.js + Ty
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meetvirugama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Meetvirugama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meetvirugama&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meetvirugama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meetvirugama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" width="48%" />
 </div>
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meetvirugama&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
----
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meetvirugama&theme=algolia&column=6&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
-</div>
 
 ---
 
