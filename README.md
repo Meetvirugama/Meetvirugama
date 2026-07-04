@@ -109,9 +109,9 @@ A **3D interactive ML algorithm visualizer** built with Three.js + GSAP. Animate
 
 **[AI Club Website](https://github.com/Meetvirugama/Club_website)**
 
-Official **MERN stack website for the college AI Club**. Built with Next.js + TypeScript on the frontend, with a full backend for event management and member coordination.
+Official **MERN stack website for the college AI Club**. Built with Next.js + TypeScript and Antigravity, with a full backend for event management and member coordination.
 
-`TypeScript` `Next.js` `MERN` `Tailwind CSS`
+`TypeScript` `Next.js` `MERN` `Antigravity`
 
 </td>
 </tr>
@@ -120,18 +120,18 @@ Official **MERN stack website for the college AI Club**. Built with Next.js + Ty
 
 **[Offline Store (Antigravity)](https://github.com/Meetvirugama/OfflineStoreWebsite)** 
 
-An e-commerce website platform built with JavaScript for managing offline retail store inventory and sales.
+An e-commerce website platform built with JavaScript and Antigravity for managing offline retail store inventory and sales.
 
-`JavaScript` `Web Development`
+`JavaScript` `Web Development` `Antigravity`
 
 </td>
 <td width="50%">
 
 **[Basic Voting System](https://github.com/Meetvirugama/BasicVotingSystem)** 
 
-A secure and transparent voting application built with JavaScript for conducting digital polls and elections.
+A secure and transparent voting application built with JavaScript and Antigravity for conducting digital polls and elections.
 
-`JavaScript` `Frontend`
+`JavaScript` `Frontend` `Antigravity`
 
 </td>
 </tr>
