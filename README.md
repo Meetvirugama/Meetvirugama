@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Meet%20Virugama&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Meet%20Virugama&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-ML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI+Systems+that+Actually+Work;GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;FastAPI+%7C+React+%7C+PyTorch+%7C+LangChain;DA-IICT+%E2%80%A2+Gujarat%2C+India" alt="Typing SVG" />
@@ -30,16 +30,15 @@
 <tr>
 <td width="60%">
 
-I'm a **B.Tech student at DA-IICT** specializing in **AI Engineering and Full-Stack Development**. I build end-to-end ML systems — from training models to deploying them in production.
+I'm a **B.Tech student at DA-IICT** specializing in **AI & Machine Learning**. I build end-to-end ML systems — from training models to deploying them in production.
 
 Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** using LangChain, LlamaIndex, and OpenAI APIs.
 
-- 🔭 **I’m currently working on:** Faculty Intelligence AI Platform · EduScribe AI
+- 🔭 **I’m currently working on:** EduScribe AI · Dau-pwa · GenAI
 - 🌱 **I’m currently learning:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
-- 👯 **I’m looking to collaborate on:** Open-source AI Agents and Full-Stack ML projects
-- 💬 **Ask me about:** Generative AI, RAG pipelines, FastAPI, React
+- 💬 **Ask me about:** AI, ML, GenAI, NLP, RAG, React, Node.js
 - 📫 **How to reach me:** [meet56963@gmail.com](mailto:meet56963@gmail.com)
-- ⚡ **Fun fact:** I can debug a neural network faster than I can decide what to eat for lunch!
+- ⚡ **Fun fact:** I spend more time tuning hyperparameters than tuning my guitar.
 
 </td>
 <td width="40%" align="center">
@@ -50,40 +49,26 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack (Proficiency Sorted)
 
-**AI / ML**
+**Core Expertise (Advanced)**
+![Python](https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-312E81?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-312E81?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-312E81?style=flat-square&logo=scikit-learn&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+**Intermediate**
+![LangChain](https://img.shields.io/badge/LangChain-4338CA?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-4338CA?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-4338CA?style=flat-square&logo=huggingface&logoColor=white)
 
-**Full Stack**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Tools & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+**Familiar Tools**
+![JavaScript](https://img.shields.io/badge/JavaScript-64748B?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-64748B?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-64748B?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-64748B?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-64748B?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-64748B?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
@@ -93,24 +78,13 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 <tr>
 <td width="50%">
 
-**[ML Modal Explainer](https://github.com/Meetvirugama/ML-MODAL-EXPLAINER)** · [Live ↗](https://ml-modal-explainer.vercel.app)
-
-A **3D interactive ML algorithm visualizer** built with Three.js + GSAP. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL. 4 scenes, 60fps, ~480KB bundle.
-
-`JavaScript` `Three.js` `GSAP` `Vite` `WebGL`
-
-</td>
-<td width="50%">
-
-**[CareerPath Pro](https://github.com/Meetvirugama/CareerPath-Pro)** · [Live ↗](https://career-path-pro-flame.vercel.app)
+**[CareerPath Pro](https://github.com/Meetvirugama/CareerPath-Pro)** 
 
 A **full-stack ML web app** that predicts student placement probability and expected salary using XGBoost. FastAPI backend + React frontend, deployed on Vercel & Render.
 
 `Python` `FastAPI` `XGBoost` `React` `Jupyter`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[GenAI Learning Track](https://github.com/Meetvirugama/GenAI)**
@@ -120,13 +94,44 @@ A **structured 3-week GenAI curriculum** with hands-on mini-projects: `week1-pro
 `Python` `LangChain` `RAG` `AI Agents` `OpenAI`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-**[AI Club Website](https://github.com/Meetvirugama/Club_website)** · [Live ↗](https://club-website-eta.vercel.app)
+**[AI Club Website](https://github.com/Meetvirugama/Club_website)**
 
 Official **MERN stack website for the college AI Club**. Built with Next.js + TypeScript on the frontend, with a full backend for event management and member coordination.
 
 `TypeScript` `Next.js` `MERN` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+**[Offline Store (Antigravity)](https://github.com/Meetvirugama/OfflineStoreWebsite)** 
+
+An e-commerce website platform built with JavaScript for managing offline retail store inventory and sales.
+
+`JavaScript` `Web Development`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Basic Voting System](https://github.com/Meetvirugama/BasicVotingSystem)** 
+
+A secure and transparent voting application built with JavaScript for conducting digital polls and elections.
+
+`JavaScript` `Frontend`
+
+</td>
+<td width="50%">
+
+**[ML Modal Explainer](https://github.com/Meetvirugama/ML-MODAL-EXPLAINER)**
+
+A **3D interactive ML algorithm visualizer** built with Three.js + GSAP. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL.
+
+`JavaScript` `Three.js` `GSAP` `Vite` `WebGL`
 
 </td>
 </tr>
