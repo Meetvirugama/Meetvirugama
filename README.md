@@ -38,7 +38,7 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 - **Learning:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
 - **Ask me about:** AI, ML, GenAI, NLP, RAG, React, Node.js
 - **Contact:** [meet56963@gmail.com](mailto:meet56963@gmail.com)
-- **Fun fact:** When I'm not building ML models, you can find me climbing the ranks in Free Fire!
+- **Fun fact:** Whether it's architecting ML pipelines or calling the shots as an eSports Athlete (IGL) in Free Fire, I'm always strategizing.
 
 </td>
 <td width="40%" align="center">
