@@ -24,7 +24,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 <table>
 <tr>
@@ -34,11 +34,11 @@ I'm a **B.Tech student at DA-IICT** specializing in **AI & Machine Learning**. I
 
 Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** using LangChain, LlamaIndex, and OpenAI APIs.
 
-- 🔭 **I’m currently working on:** EduScribe AI · Dau-pwa · GenAI
-- 🌱 **I’m currently learning:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
-- 💬 **Ask me about:** AI, ML, GenAI, NLP, RAG, React, Node.js
-- 📫 **How to reach me:** [meet56963@gmail.com](mailto:meet56963@gmail.com)
-- ⚡ **Fun fact:** I spend more time tuning hyperparameters than tuning my guitar.
+- **Current Focus:** EduScribe AI · Dau-pwa · GenAI
+- **Learning:** *Hands-On ML with Scikit-Learn & TensorFlow* (Ch 1–19)
+- **Ask me about:** AI, ML, GenAI, NLP, RAG, React, Node.js
+- **Contact:** [meet56963@gmail.com](mailto:meet56963@gmail.com)
+- **Fun fact:** I spend more time tuning hyperparameters than tuning my guitar.
 
 </td>
 <td width="40%" align="center">
@@ -49,7 +49,7 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 
 ---
 
-### 🧰 Tech Stack (Proficiency Sorted)
+### Technical Proficiency
 
 **Core Expertise (Advanced)**
 ![Python](https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white)
@@ -72,7 +72,7 @@ Currently working on **Generative AI**, **RAG pipelines**, and **AI Agents** usi
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -98,6 +98,15 @@ A **structured 3-week GenAI curriculum** with hands-on mini-projects: `week1-pro
 <tr>
 <td width="50%">
 
+**[ML Modal Explainer](https://github.com/Meetvirugama/ML-MODAL-EXPLAINER)**
+
+A **3D interactive ML algorithm visualizer** built with Three.js + GSAP. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL.
+
+`JavaScript` `Three.js` `GSAP` `Vite` `WebGL`
+
+</td>
+<td width="50%">
+
 **[AI Club Website](https://github.com/Meetvirugama/Club_website)**
 
 Official **MERN stack website for the college AI Club**. Built with Next.js + TypeScript on the frontend, with a full backend for event management and member coordination.
@@ -105,6 +114,8 @@ Official **MERN stack website for the college AI Club**. Built with Next.js + Ty
 `TypeScript` `Next.js` `MERN` `Tailwind CSS`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **[Offline Store (Antigravity)](https://github.com/Meetvirugama/OfflineStoreWebsite)** 
@@ -114,8 +125,6 @@ An e-commerce website platform built with JavaScript for managing offline retail
 `JavaScript` `Web Development`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **[Basic Voting System](https://github.com/Meetvirugama/BasicVotingSystem)** 
@@ -125,23 +134,14 @@ A secure and transparent voting application built with JavaScript for conducting
 `JavaScript` `Frontend`
 
 </td>
-<td width="50%">
-
-**[ML Modal Explainer](https://github.com/Meetvirugama/ML-MODAL-EXPLAINER)**
-
-A **3D interactive ML algorithm visualizer** built with Three.js + GSAP. Animates through Decision Trees, Random Forest, and Logistic Regression in real-time WebGL.
-
-`JavaScript` `Three.js` `GSAP` `Vite` `WebGL`
-
-</td>
 </tr>
 </table>
 
-> 📌 Also check: [NOTES](https://github.com/Meetvirugama/NOTES) — Chapter-by-chapter ML notes from *Hands-On Machine Learning* (Ch 1–19, covering CNNs, RNNs, GANs, RL, and more)
+> **Note:** Also check: [NOTES](https://github.com/Meetvirugama/NOTES) — Chapter-by-chapter ML notes from *Hands-On Machine Learning* (Ch 1–19, covering CNNs, RNNs, GANs, RL, and more)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Meetvirugama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&count_private=true" width="48%" />
